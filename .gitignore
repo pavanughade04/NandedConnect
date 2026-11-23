@@ -19,3 +19,6 @@ desktop.ini
 # Editor temporary files
 *.swp
 *.swo
+
+node_modules/
+.env
